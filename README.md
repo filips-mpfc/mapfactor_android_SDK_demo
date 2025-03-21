@@ -1,5 +1,13 @@
 # Mapfactor Android SDK demo application
 This repo serves as a guide for SDK initialization
+Example failed initalization           |  Successful init
+:-------------------------:|:-------------------------:
+![failed_activation_sdk](https://github.com/user-attachments/assets/2756857e-faa7-4ad6-9e1f-fc022bc11e76) | ![success_activation](https://github.com/user-attachments/assets/824ea642-03ff-4245-a7f4-ab49bbf1876d)
+
+
+
+
+
 
 ## Updated info
 Check [sdk.mapfactor.com](https://sdk.mapfactor.com) for the latest info.
