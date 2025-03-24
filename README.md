@@ -23,6 +23,10 @@ Check [sdk.mapfactor.com](https://sdk.mapfactor.com) for the latest info.
 - Since this is an __offline__ maps-based SDK, sufficient space on internal or external storage is required
 If you encounter any issue, please check the Logcat first, it mays help to find the cause.
 
+## What you need
+- As you can see, the [gradle.properties](gradle.properties) contains credentials to download the library from our Maven repository. Please ask our [sales@mapfactor.com](mailto:sales@mapfactor.com).
+- SDK initialisation needs to insert the licence key to activate the device ([SDKManager.kt](app/src/main/java/com/example/followtheguidesdk/util/SDKManager.kt)), please ask our [sales department](sales@mapfactor.com) for it. Possiblity to create test key for limited amount of activations.
+
 
 
 
